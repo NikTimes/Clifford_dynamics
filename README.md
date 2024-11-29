@@ -1,6 +1,6 @@
 # Quantum Circuit Simulation Framework
 
-This project focuses on building a simulation framework for quantum circuits from scratch, with an emphasis on **Clifford dynamics**. The implementation relies exclusively on Python standard libraries, prioritizing efficiency and correctness.
+This project focuses on building a simulation framework for quantum circuits from scratch, emphasizing **Clifford dynamics**. The implementation relies exclusively on Python standard libraries, prioritizing efficiency and correctness. Some of the algorithms implemented in this project are based on the following paper: https://www.scottaaronson.com/papers/chp6.pdf
 
 ## Objectives
 
@@ -67,3 +67,5 @@ This framework demonstrates the strengths of both simulation approaches:
 - The **state vector simulator** provides a reliable tool for validation and small-scale circuit analysis.
 
 By comparing these methods, the project offers insights into the trade-offs between correctness and efficiency in quantum circuit simulation.
+
+
