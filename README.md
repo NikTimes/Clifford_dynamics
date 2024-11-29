@@ -68,4 +68,14 @@ This framework demonstrates the strengths of both simulation approaches:
 
 By comparing these methods, the project offers insights into the trade-offs between correctness and efficiency in quantum circuit simulation.
 
+--- 
 
+### More Results
+
+The results shown above are just a comparative example at the efficiency boundary of both quantum computing frameworks. The following Images showcase the same relations but for a random 8 qubit circuit.
+
+![Cumulative runtime for 1,000 experiments measuring a 8-qubit circuit with a depth of 2](random_8_qubit_circuit_amplitudes.png)
+
+![Cumulative memory usage for 1,000 experiments measuring a 8-qubit circuit with a depth of 2](Cummulative_8qubit_runtime_comparison.png)
+
+![Cumulative memory usage for 1,000 experiments measuring a 8-qubit circuit with a depth of 2](8_qubit_cumulative_memory_usage.png)
